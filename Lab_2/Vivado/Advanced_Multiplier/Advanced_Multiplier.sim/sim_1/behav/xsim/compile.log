@@ -1,0 +1,11 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wilso/OneDrive/桌面/清華大學/清大課程/大三上/硬體設計與實驗/Lab_2/Code/Advanced/Lab2_110062271_Multiplier_4bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AND
+INFO: [VRFC 10-311] analyzing module OR
+INFO: [VRFC 10-311] analyzing module NOT
+INFO: [VRFC 10-311] analyzing module Majority
+INFO: [VRFC 10-311] analyzing module Full_Adder
+INFO: [VRFC 10-311] analyzing module Multiplier_4bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wilso/OneDrive/桌面/清華大學/清大課程/大三上/硬體設計與實驗/Lab_2/Code/Advanced/Lab2_110062271_Multiplier_4bit_t.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test_Multiplier_4bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wilso/Advanced_Multiplier/Advanced_Multiplier.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

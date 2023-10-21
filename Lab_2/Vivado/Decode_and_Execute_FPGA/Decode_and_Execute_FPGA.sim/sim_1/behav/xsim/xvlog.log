@@ -1,0 +1,32 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wilso/OneDrive/桌面/清華大學/清大課程/大三上/硬體設計與實驗/Lab_2/Code/Advanced/Lab2_110062271_Decode_And_Execute_4bit_fpga.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Universal_Gate
+INFO: [VRFC 10-311] analyzing module AND
+INFO: [VRFC 10-311] analyzing module NOT
+INFO: [VRFC 10-311] analyzing module NAND
+INFO: [VRFC 10-311] analyzing module OR
+INFO: [VRFC 10-311] analyzing module NOR
+INFO: [VRFC 10-311] analyzing module XOR
+INFO: [VRFC 10-311] analyzing module XNOR
+INFO: [VRFC 10-311] analyzing module Mux_2x1_4bit
+INFO: [VRFC 10-311] analyzing module Mux_4x1_4bit
+INFO: [VRFC 10-311] analyzing module MUX_8x1_4bit
+INFO: [VRFC 10-311] analyzing module FPGA_7segment
+INFO: [VRFC 10-311] analyzing module Decode_And_Execute
+INFO: [VRFC 10-311] analyzing module BW_OR
+INFO: [VRFC 10-311] analyzing module BW_AND
+INFO: [VRFC 10-311] analyzing module R_Shift
+INFO: [VRFC 10-311] analyzing module L_Shift
+INFO: [VRFC 10-311] analyzing module Majority
+INFO: [VRFC 10-311] analyzing module Full_Adder
+INFO: [VRFC 10-311] analyzing module Ripple_Carry_Adder_4bit
+INFO: [VRFC 10-311] analyzing module ADD
+INFO: [VRFC 10-311] analyzing module SUB
+INFO: [VRFC 10-311] analyzing module Compare_EQ
+INFO: [VRFC 10-311] analyzing module Compare_LS
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wilso/OneDrive/桌面/清華大學/清大課程/大三上/硬體設計與實驗/Lab_2/Code/Advanced/test_t.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test_Decode_And_Execute
+INFO: [VRFC 10-2458] undeclared symbol rs, assumed default net type wire [C:/Users/wilso/OneDrive/桌面/清華大學/清大課程/大三上/硬體設計與實驗/Lab_2/Code/Advanced/test_t.v:7]
+INFO: [VRFC 10-2458] undeclared symbol rt, assumed default net type wire [C:/Users/wilso/OneDrive/桌面/清華大學/清大課程/大三上/硬體設計與實驗/Lab_2/Code/Advanced/test_t.v:7]
+INFO: [VRFC 10-2458] undeclared symbol sel, assumed default net type wire [C:/Users/wilso/OneDrive/桌面/清華大學/清大課程/大三上/硬體設計與實驗/Lab_2/Code/Advanced/test_t.v:7]
+ERROR: [VRFC 10-552] declarations not allowed in unnamed block [C:/Users/wilso/OneDrive/桌面/清華大學/清大課程/大三上/硬體設計與實驗/Lab_2/Code/Advanced/test_t.v:9]
+ERROR: [VRFC 10-2865] module 'test_Decode_And_Execute' ignored due to previous errors [C:/Users/wilso/OneDrive/桌面/清華大學/清大課程/大三上/硬體設計與實驗/Lab_2/Code/Advanced/test_t.v:2]

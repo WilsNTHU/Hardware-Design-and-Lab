@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed Oct 11 22:11:19 2023
+# Process ID: 10756
+# Current directory: C:/Users/wilso/OneDrive/桌面/清華大學/清大課程/大三上/硬體設計與實驗/Lab_2/Vivado/Basic_question_1/Basic_question_1.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/wilso/OneDrive/桌面/清華大學/清大課程/大三上/硬體設計與實驗/Lab_2/Vivado/Basic_question_1/Basic_question_1.sim/sim_1/behav/xsim/xsim.dir/NAND_Implement_t_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/wilso/OneDrive/桌面/清華大學/清大課程/大三上/硬體設計與實驗/Lab_2/Vivado/Basic_question_1/Basic_question_1.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/wilso/OneDrive/桌面/清華大學/清大課程/大三上/硬體設計與實驗/Lab_2/Vivado/Basic_question_1/Basic_question_1.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/wilso/OneDrive/桌面/清華大學/清大課程/大三上/硬體設計與實驗/Lab_2/Vivado/Basic_question_1/Basic_question_1.sim/sim_1/behav/xsim/xsim.dir/NAND_Implement_t_behav/webtalk/xsim_webtalk.tcl -notrace
