@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wilso/OneDrive/桌面/清華大學/清大課程/大三上/硬體設計與實驗/Lab_3/Basic/Lab3_Clock_Divider.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Clock_Divider
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wilso/OneDrive/桌面/清華大學/清大課程/大三上/硬體設計與實驗/Lab_3/Basic/Clock_Divider_t.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Clock_Divider_t

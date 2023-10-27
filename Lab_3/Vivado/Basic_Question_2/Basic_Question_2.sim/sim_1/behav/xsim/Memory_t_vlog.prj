@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../../../桌面/清華大學/清大課程/大三上/硬體設計與實驗/Lab_3/Basic/Lab3_Memory.v" \
+"../../../../../../../桌面/清華大學/清大課程/大三上/硬體設計與實驗/Lab_3/Basic/Memory_t.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
