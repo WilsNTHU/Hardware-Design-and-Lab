@@ -22,11 +22,5 @@ and always exert myself to perform better, in reality I'm just not good enough, 
 I also improves my WORD skill hugely, in the first few lab report the organization of the reports are pretty naive, but
 later I google it and learn to apply TOC(table of contents) and it looks just way better.
 
-To summarize, in this course I code far more than any other programming courses, I write way more reports than any General Education courses, 
-and I score lower than any course I have participated in my undergraduate program, but I greatly increases my capacity as a person in many aspects
-of life, it may not be seen ostensibly, but this is the most valuable thing. 
-
-At the end of semester, many challeges present to me during the course is nothing to me.
-
-I can almost certainly said that this might be the most hardcore CS course in undergraduate program in NTHUCS, 
-but I enjoy much than any other courses that I have participated.
+At the end of semester, many challeges present to me during the beginning of the course is nothing to me, and I enjoy this course 
+deeply.
