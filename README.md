@@ -26,7 +26,7 @@ To summarize, in this course I code far more than any other programming courses,
 and I score lower than any course I have participated in my undergraduate program, but I greatly increases my capacity as a person in many aspects
 of life, it may not be seen ostensibly, but this is the most valuable thing. 
 
-At the end of semester, many challeges present to me during the course is nothing but a piece of cake to me.
+At the end of semester, many challeges present to me during the course is nothing to me.
 
-I can almost certainly said that this might be the most hardcore CS course in undergraduate program in NTHU, 
+I can almost certainly said that this might be the most hardcore CS course in undergraduate program in NTHUCS, 
 but I enjoy much than any other courses that I have participated.
